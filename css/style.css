@@ -1,0 +1,26 @@
+.top {
+  text-align: justify;
+  color: red;
+}
+
+.middle {
+  font-family: cursive;
+  color: blue;
+}
+
+.bottom {
+  font-family: monospace;
+  font-style: italic;
+  color: green;
+}
+
+.first {
+  font-family: fantasy;
+  color: orange;
+}
+
+.second {
+  text-align: center;
+  font-family: sans-serif;
+  font-style: italic;
+}
