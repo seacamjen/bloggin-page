@@ -1,14 +1,20 @@
 .top {
+  border: 15px solid green;
+  margin-bottom: 300px;
   text-align: justify;
   color: red;
 }
 
 .middle {
+  border: 5px solid gold;
+  padding: 10px;
+  background-color: grey;
   font-family: cursive;
   color: blue;
 }
 
 .bottom {
+  margin-top: 250px;
   font-family: monospace;
   font-style: italic;
   color: green;
